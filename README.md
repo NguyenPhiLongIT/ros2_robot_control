@@ -3,7 +3,7 @@
 Dự án này mô phỏng một robot di động 2 bánh (differential drive) với 1 bánh caster hỗ trợ cân bằng.  
 Robot được mô hình hóa bằng **URDF/Xacro**, mô phỏng trong **Gazebo**, hiển thị trong **RViz** và có thể điều khiển thông qua **GUI + bàn phím**.
 
-## ⚙️ Cài đặt
+## ⚙️ Setup
 
 ### 1️⃣ Clone workspace
 ```bash
