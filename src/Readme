@@ -1,0 +1,4 @@
+Setup:
+- Make sure you have ROS 2 installed on your system.
+Run this command to launch the display:
+ros2 launch my_robot_description display.launch.py
