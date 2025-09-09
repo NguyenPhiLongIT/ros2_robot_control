@@ -7,8 +7,8 @@ Robot được mô hình hóa bằng **URDF/Xacro**, mô phỏng trong **Gazebo*
 
 ### 1️⃣ Clone workspace
 ```bash
-mkdir -p ~/ros2_ws/src
-cd ~/ros2_ws/src
+mkdir -p ~/ros2_ws
+cd ~/ros2_ws
 git clone <repo_url>
 cd ~/ros2_ws
 colcon build
